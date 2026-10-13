@@ -1,0 +1,221 @@
+pair_id,phrase_a,phrase_b,proposed_by,same
+0,solemn epic tone,epic tone,emb_bge,same
+1,prominent lead guitar,virtuosic lead guitar,emb_bge,same
+2,foundational bass guitar,foundational bassline,emb_bge,different
+3,massive explosive effect,explosive sound effect,emb_bge,same
+4,layered harmony,layered like harmony,emb_bge,same
+5,drive distorted drum,distorted drum,emb_bge,same
+6,solitary reverent vocal,reverberant vocal,emb_bge,same
+7,forceful orient performance,forceful orient delivery,emb_bge,different
+8,grand ready sound,powerful ready sound,emb_bge,same
+9,grand spiritual feel,grand feel,emb_bge,same
+10,dramatic middle melody,intricate middle melody,emb_bge,same
+11,emotional recitative performance,emotional like performance,emb_bge,same
+12,male vocal chant,hum male chant,emb_bge,same
+13,powerful instrumental flourish,powerful flourish,emb_bge,same
+14,electric guitar,tone electric guitar,emb_bge,same
+15,dramatic weight,significant weight,emb_bge,same
+16,powerful cinematic drum,epic cinematic percussion,emb_bge,same
+17,soft breathy delivery,soft intimate delivery,emb_bge,same
+18,emotive vocal performance,emotive expressive vocal,emb_bge,same
+19,emotional melismatic melody,passionate melismatic melody,emb_bge,same
+20,sweeping orchestral string,sweep orchestral string,emb_bge,same
+21,metal style,european metal style,emb_bge,same
+22,powerful epic string,powerful string,emb_bge,same
+23,clean tone,clear resonant tone,emb_bge,same
+24,explosive sound effect,massive explosion effect,emb_bge,same
+25,crunchy distorted guitar,crunchy guitar,emb_bge,same
+26,grand spacious atmosphere,spacious atmosphere,emb_bge,same
+27,powerful acoustic kit,powerful drum kit,emb_bge,same
+28,passionate declamatory style,clear declamatory style,emb_bge,same
+29,clean electric melody,clean arpeggiated melody,emb_bge,same
+30,powerful brass stab,brassy stab,emb_bge,same
+31,driving distorted riff,drive riff,emb_bge,same
+32,lone male vocal,lone reverberant singing,emb_bge,different
+33,powerful wall,powerful unified wall,emb_bge,same
+34,heavy riff,heavy electric riff,emb_bge,same
+35,immense passion,intense rich passion,emb_bge,same
+36,blow metal sound,metal sound,emb_bge,same
+37,epic rock power,hard rock power,emb_bge,same
+38,grand dramatic feel,grand theatrical feel,emb_bge,same
+39,main powerful theme,main theme,emb_bge,same
+40,high register,high strained register,emb_gemma,same
+41,anthemic delivery,soft intimate delivery,emb_gemma,same
+42,soft vocal delivery,gentle vocal delivery,emb_gemma,same
+43,soar emotive performance,powerful soar performance,emb_gemma,same
+44,operatic scream intensity,theatrical operatic intensity,emb_gemma,same
+45,sweeping string,sustained synth string,emb_gemma,same
+46,soft ambient pad,soar synth pad,emb_gemma,same
+47,powerful declarative mood,grand declarative mood,emb_gemma,same
+48,powerful drench machine,powerful heavy machine,emb_gemma,same
+49,powerful anthemic wall,dense anthemic wall,emb_gemma,same
+50,distorted guitar lead,melodic guitar lead,emb_gemma,same
+51,massive anthemic effect,majestic anthemic wall,emb_gemma,different
+52,climactic soar delivery,soar emotional delivery,emb_gemma,same
+53,overdriven electric guitar,driving electric riff,emb_gemma,different
+54,sustain pitch scream,intense scream delivery,emb_gemma,different
+55,classic arabic style,traditional mawwal style,emb_gemma,same
+56,massive distort chord,guitar,emb_gemma,different
+57,prominent orchestral pad,linger synth pad,emb_gemma,same
+58,combined force,single powerful impact,emb_gemma,different
+59,blow symphonic soundscape,significant reverb,emb_gemma,different
+60,immense scale,theatrical scale,emb_gemma,same
+61,dramatic backdrop,texture,emb_gemma,different
+62,brief style lick,prominent bend,emb_gemma,different
+63,grand symphonic scale,grand anthemic scale,emb_gemma,same
+64,soft reflective performance,clear delivery,emb_gemma,different
+65,subtle ambient pad,sustained orchestral pad,emb_gemma,same
+66,drench male lead,commanding male lead,emb_gemma,same
+67,melodic guitar lead,synth lead,emb_gemma,same
+68,maximum impact,single powerful impact,emb_gemma,same
+69,massive anthemic effect,anthemic level,emb_gemma,different
+70,clean guitar,overdriven electric guitar,emb_gemma,same
+71,like effect,grand like effect,emb_gemma,same
+72,operatic male lead,commanding male lead,emb_gemma,same
+73,epic unified chant,powerful layered chant,emb_gemma,same
+74,lone clean guitar,electric guitar,emb_gemma,same
+75,symphonic depth,grand cinematic atmosphere,emb_gemma,different
+76,throttle energy,gallop feel,emb_gemma,different
+77,throttle intensity,gallop feel,emb_gemma,different
+78,sustain distorted chord,distorted power chord,emb_gemma,same
+79,heavy electric guitar,clean arpeggiate guitar,emb_gemma,same
+80,powerful unified chant,massive layered chant,hybrid,same
+81,single powerful impact,vast like feel,hybrid,different
+82,clean record guitar,lone clean guitar,hybrid,same
+83,commanding male vocal,lone emotive vocal,hybrid,same
+84,arena rock,modern epic rock,hybrid,same
+85,vibrato,significant characteristic vibrato,hybrid,same
+86,chug mute riff,distort chord guitar,hybrid,different
+87,long spacious reverb,natural reverb,hybrid,same
+88,expressive vibrato,vibrato,hybrid,same
+89,powerful chord,clean piano chord,hybrid,same
+90,prominent bend,powerful brass stab,hybrid,different
+91,prominent orchestral pad,string pad,hybrid,same
+92,clean chorus guitar,clean guitar,hybrid,same
+93,sustain characteristic vibrato,pronounced vibrato,hybrid,same
+94,style back harmony,massive like harmony,hybrid,same
+95,distorted electric guitar,distorted electric riff,hybrid,different
+96,distorted electric riff,distort electric guitar,hybrid,different
+97,anthemic style rock,anthemic pop,hybrid,different
+98,dramatic synthesized string,cinematic synthesizer string,hybrid,same
+99,significant grit,modern rock grit,hybrid,same
+100,heavy distorted chord,massive distorted chord,hybrid,same
+101,soar powerful tenor,epic tone,hybrid,different
+102,synth bass,clean electric bass,hybrid,same
+103,dense soundscape,huge like sound,hybrid,different
+104,powerful drench cry,single sustained scream,hybrid,different
+105,clean record guitar,aggressive mute riff,hybrid,different
+106,melodic electric guitar,clean electric guitar,hybrid,same
+107,sustained atmospheric chord,sustained chord,hybrid,same
+108,gentle vocal delivery,soft ethereal vocal,hybrid,different
+109,like pluck instrument,cello melody,hybrid,different
+110,strong cinematic quality,theatrical quality,hybrid,same
+111,chug electric guitar,heavy electric riff,hybrid,different
+112,punchy reverb machine,powerful heavy machine,hybrid,same
+113,immense wall,dense powerful wall,hybrid,same
+114,lead,wail guitar lead,hybrid,same
+115,grit,modern rock grit,hybrid,same
+116,gentler instrumental bed,bed,hybrid,same
+117,expressive vibrato,pronounced vibrato,hybrid,same
+118,brief guitar lead,emotive lead,hybrid,same
+119,modern heavy metal,modern metal,hybrid,same
+120,grandeur,defiant grandeur,lemma_head,same
+121,operatic performance,powerful operatic performance,lemma_head,same
+122,gentle plucked instrument,traditional eastern instrument,lemma_head,same
+123,epic cinematic,powerful cinematic,lemma_head,same
+124,high energy level,anthemic level,lemma_head,same
+125,powerful punchy kit,drive drum kit,lemma_head,same
+126,clean electric bass,bass,lemma_head,same
+127,lush bed,gentler instrumental bed,lemma_head,same
+128,powerful vocal run,melismatic typical run,lemma_head,same
+129,pop,anthemic arabic pop,lemma_head,same
+130,traditional melismatic style,powerful style,lemma_head,same
+131,powerful fusion,potent fusion,lemma_head,same
+132,dense powerful wall,dense anthemic wall,lemma_head,same
+133,anthemic rock,anthemic symphonic rock,lemma_head,same
+134,cinematic orchestral flourish,powerful vocal flourish,lemma_head,same
+135,center stage,grand stage,lemma_head,same
+136,intense powerful scream,powerful strained scream,lemma_head,same
+137,immense power,power,lemma_head,same
+138,drive distorted drum,driving drum,lemma_head,same
+139,passionate male vocalist,vocalist,lemma_head,same
+140,dramatic epic,epic,lemma_head,same
+141,emotional melismatic run,rapid run,lemma_head,same
+142,heavy bassline,subtle bassline,lemma_head,same
+143,clean like quality,operatic quality,lemma_head,same
+144,cinematic percussion,heavy percussion,lemma_head,same
+145,grand theatrical soundscape,spacious melancholic soundscape,lemma_head,same
+146,powerful emotive voice,strong clear voice,lemma_head,same
+147,rich textured fusion,powerful fusion,lemma_head,same
+148,intense passion,theatrical passion,lemma_head,same
+149,gentle piano,piano,lemma_head,same
+150,powerful reverb machine,machine,lemma_head,same
+151,strained powerful cry,powerful drench cry,lemma_head,same
+152,powerful clean performance,powerful pitch performance,lemma_head,same
+153,theatrical vocal performance,operatic performance,lemma_head,same
+154,shift dynamic,modern powerful dynamic,lemma_head,same
+155,arabic music,symphonic music,lemma_head,same
+156,grand rock tone,guitar tone,lemma_head,same
+157,bassline,prominent bassline,lemma_head,same
+158,like pluck instrument,clean like instrument,lemma_head,same
+159,dramatic film score,film score,lemma_head,same
+160,strong 80 influence,influence,emb_gemma,same
+161,dramatic fusion,striking fusion,emb_gemma,same
+162,chiptune style,shre style,emb_gemma,same
+163,cinematic grandiose texture,huge like sound,hybrid,different
+164,dramatic,dramatic character,emb_bge,different
+165,delicate string arpeggio,rapid arpeggio,emb_bge,same
+166,epic scale,grand rock scale,emb_gemma,same
+167,massive vocal choir,massive male choir,emb_bge,same
+168,vocal performance,theatrical vocal performance,emb_bge,same
+169,mix,dense powerful mix,lemma_head,same
+170,lone resonant vocal,lone dramatic vocal,emb_bge,same
+171,lush symphonic pad,lush atmospheric pad,emb_gemma,same
+172,gritty strained tone,gritty forceful tone,emb_bge,same
+173,low resonant vocal,deep resonant vocal,emb_bge,same
+174,main lyric,sung lyric,lemma_head,same
+175,prominent bass guitar,prominent bassline,emb_bge,different
+176,dramatic melancholic mood,dramatic melancholic,emb_bge,different
+177,grand emotional scale,grand anthemic scale,lemma_head,same
+178,synth bass,clean synth bass,emb_bge,same
+179,heavy electric guitar,heavy guitar,emb_bge,same
+180,melancholic tone,melancholic vocal,emb_bge,different
+181,massive sound effect,massive like sound,emb_bge,different
+182,theatrical scale,grand theatrical scale,emb_bge,same
+183,hard rock,classic hard rock,emb_bge,same
+184,soar powerful tenor,powerful tenor performance,emb_bge,same
+185,dramatic backdrop,intense backdrop,emb_bge,same
+186,intense soar energy,soar quality,emb_gemma,different
+187,subdued piano,sparse piano,emb_bge,same
+188,heroic mood,powerful heroic mood,emb_bge,same
+189,dramatic tension,intense tension,lemma_head,same
+190,orchestral sense,orchestral theme,emb_bge,different
+191,expressive vibrato,dramatic vibrato,emb_bge,same
+192,soar like chant,dramatic like chant,emb_bge,same
+193,powerful kick drumming,kick drumming,emb_bge,same
+194,impact sound,massive impact sound,emb_bge,same
+195,grand melancholic stage,grand stage,emb_bge,same
+196,powerful symphonic metal,modern heavy metal,hybrid,same
+197,virtuosic oud,solo oud,hybrid,same
+198,arabic pop,arabic pop rock,emb_bge,different
+199,contemplative reverberant delivery,contemplative vocal delivery,emb_bge,same
+200,clean arpeggiate guitar,heavy distort guitar,opposite_probe,different
+201,powerful clean vocal,distort tuned riff,opposite_probe,different
+202,clean string guitar,distorted electric guitar,opposite_probe,different
+203,crunchy distorted riff,clean electric bass,opposite_probe,different
+204,heavy distorted riff,clean arpeggio,opposite_probe,different
+205,clean electric melody,acoustic percussion,opposite_probe,different
+206,clean chorus guitar,distort tune guitar,opposite_probe,different
+207,clean arpeggiated chord,powerful distorted riff,opposite_probe,different
+208,clean synth bass,powerful distort guitar,opposite_probe,different
+209,aggressive gang vocal,gentle introspective tone,opposite_probe,different
+210,distorted guitar,steady clean beat,opposite_probe,different
+211,clean record guitar,distorted guitar,opposite_probe,different
+212,distorted drum,clean synth bass,opposite_probe,different
+213,powerful distorted guitar,clean electric bass,opposite_probe,different
+214,subdued layered vocal,explosive chord,opposite_probe,different
+215,distorted power chord,clean electric guitar,opposite_probe,different
+216,low resonant vocal,high tenor,opposite_probe,different
+217,massive distort chord,solitary clean arpeggio,opposite_probe,different
+218,solid acoustic kit,distorted electric riff,opposite_probe,different
+219,clean guitar,heavy distort guitar,opposite_probe,different

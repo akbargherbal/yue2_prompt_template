@@ -1,0 +1,140 @@
+{
+  "load": {
+    "rows": 177,
+    "null_captions": 0,
+    "exact_duplicates": 0,
+    "word_min": 246,
+    "word_max": 554,
+    "word_mean": 392.2
+  },
+  "c1": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 83,
+    "fp": 0,
+    "fn": 0,
+    "status": "self-labelled, unverified",
+    "pass": true
+  },
+  "inventory": {
+    "genre": 126,
+    "instrument": 665,
+    "mood": 376,
+    "vocal": 397,
+    "production": 241
+  },
+  "embedders": {
+    "bge": "BAAI/bge-small-en-v1.5",
+    "gemma": "google/embeddinggemma-300m"
+  },
+  "c2": {
+    "exact": {
+      "precision": 1.0,
+      "recall": 0.0,
+      "n": 0,
+      "wilson": [
+        1.0,
+        1.0
+      ],
+      "opposite_pairs_merged": 0,
+      "pass": true
+    },
+    "lemma_head": {
+      "precision": 1.0,
+      "recall": 0.9506,
+      "n": 154,
+      "wilson": [
+        0.976,
+        1.0
+      ],
+      "opposite_pairs_merged": 0,
+      "pass": true
+    },
+    "emb_bge": {
+      "precision": 0.8824,
+      "recall": 0.463,
+      "n": 85,
+      "wilson": [
+        0.797,
+        0.935
+      ],
+      "opposite_pairs_merged": 0,
+      "pass": false
+    },
+    "emb_gemma": {
+      "precision": 0.7987,
+      "recall": 0.784,
+      "n": 159,
+      "wilson": [
+        0.73,
+        0.854
+      ],
+      "opposite_pairs_merged": 0,
+      "pass": false
+    },
+    "hybrid": {
+      "precision": 0.8516,
+      "recall": 0.9568,
+      "n": 182,
+      "wilson": [
+        0.793,
+        0.896
+      ],
+      "opposite_pairs_merged": 0,
+      "pass": false
+    }
+  },
+  "c2_thresholds": {
+    "bge": 0.15,
+    "gemma": 0.15
+  },
+  "c2_calibration": {
+    "bge": {
+      "n_instrument_phrases": 665,
+      "min": 0.005869865417480469,
+      "mean": 0.3702346384525299,
+      "max": 0.6270923614501953,
+      "frac_pairs_below_0.15": 0.011155901802699519,
+      "threshold_used": 0.15
+    },
+    "gemma": {
+      "n_instrument_phrases": 665,
+      "min": 0.003698289394378662,
+      "mean": 0.16251932084560394,
+      "max": 0.3589895963668823,
+      "frac_pairs_below_0.15": 0.3822538273394329,
+      "threshold_used": 0.15
+    }
+  },
+  "c2_n_pairs": {
+    "proposed": 200,
+    "probes": 20
+  },
+  "chosen_method": {
+    "method": "lemma_head",
+    "note": "passing method with best recall"
+  },
+  "opening_rule": {
+    "jaccard": 0.2903,
+    "separate": true
+  },
+  "n_exclusive_pairs": 5,
+  "budget_before": 0,
+  "language_phrase_added": true,
+  "template": "arabic rock, arabic, metal, vocal, powerful operatic performance, spacious reverb, rhythm guitar, epic, vocalist",
+  "budget": {
+    "kept": 9,
+    "trimmed": 0,
+    "filled": [
+      "arabic rock",
+      "vocal",
+      "spacious reverb",
+      "rhythm guitar",
+      "epic",
+      "powerful operatic performance",
+      "metal",
+      "vocalist"
+    ]
+  }
+}
